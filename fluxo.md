@@ -64,7 +64,7 @@ git pull origin develop
 ✔️ começar pela develop
 ✔️ dar pull na develop
 
----
+---  
 
 ## ❌ 2. NUNCA:
 

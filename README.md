@@ -251,3 +251,4 @@ git commit -m "fix: resolve conflito na configuração da porta serial"
 ### Comunique-se com a Equipe: Avise em qual branch você está trabalhando para evitar conflitos com outros desenvolvedores.
 
 ---
+  
